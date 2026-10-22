@@ -8,13 +8,13 @@ The project demonstrates how cohort-based analysis can help evaluate customer re
 
 ## Dataset & Model Assumptions
 
+![Dataset Assumptions Preview](dataset-assumptions-preview.png)
+
 | Parameter | Assumption |
 |---|---:|
 | Monthly subscription price | $50 |
 | Gross margin | 65% |
 | Customer acquisition cost (CAC) | $115 |
-
-![Dataset Assumptions Preview](dataset-assumptions-preview.png)
 
 These are illustrative assumptions used in the model, not verified business results. CAC is included as an input but is not used to calculate an LTV:CAC ratio or CAC payback period.
 
@@ -49,7 +49,7 @@ These are illustrative assumptions used in the model, not verified business resu
 
 ## Project Files
 - `Customer-Cohort-Analysis.xlsx` — Excel workbook.
+- `dataset-assumptions-preview.png` — Dataset & Assumptions screenshot.
 - `customer-cohort-analysis-preview1.png` — Analysis screenshot 1.
 - `customer-cohort-analysis-preview2.png` — Analysis screenshot 2.
 - `customer-cohort-analysis-preview3.png` — Analysis screenshot 3.
-- `dataset-assumptions-preview.png` — Dataset & Assumptions screenshot.
